@@ -25,7 +25,7 @@ Copy repo for demo map or download release for zip of just the scripts
 |`Once`|`bool`|Remove permanently after pickup|
 |`Radius`|`float`|Change interaction radius|
 
-*You can also set properties `Sound 1``Sound 2``Sound 3``Sound 4` to have a random sound play
+*You can also set properties `Sound 1` `Sound 2` `Sound 3` `Sound 4` to have a random sound play
 
 
 
